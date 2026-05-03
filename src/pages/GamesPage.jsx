@@ -189,7 +189,6 @@ function GameFrame({ game, url, demo, onClose, balance }) {
     </div>
   );
 }
-export default GamesPage;
 
 // ═══════════════════════════════════════════════════════════════════
 //  BONUSES PAGE
